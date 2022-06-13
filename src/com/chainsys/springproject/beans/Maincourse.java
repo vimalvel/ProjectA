@@ -1,4 +1,4 @@
-package com.chainsys.projectA.beans;
+package com.chainsys.springproject.beans;
 
 public abstract class Maincourse {
 	public String name;

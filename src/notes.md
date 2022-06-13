@@ -34,3 +34,5 @@ A new object is created for Prototype when getBean() method is called every time
 // lazy-init="true" this informs sprincontainer not pre load object fo this beans
 // by default spring early loads objects in memory
 // For lazy-init beans object is created only when the getbeans() method is called.
+
+

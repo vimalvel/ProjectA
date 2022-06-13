@@ -1,4 +1,4 @@
-package com.chainsys.projectA.beans;
+package com.chainsys.springproject.beans;
 
 public class CalenderFactory {
 	// the factory method - is not static method

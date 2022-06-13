@@ -1,4 +1,4 @@
-package com.chainsys.projectA.beans;
+package com.chainsys.springproject.beans;
 
 public class Lunch {
     public Starters entree;

@@ -1,6 +1,6 @@
-package com.chainsys.projectA.beans;
+package com.chainsys.springproject.beans;
 
-public class Employee {
+public class Actor {
 	private int id;
 	private String name;
 	public int getId() {
@@ -19,8 +19,7 @@ public class Employee {
 		System.out.println(this.getId());
 		System.out.println(this.getName());
 	}
-	public Employee() {
-		System.out.println("Empoyee object created "+ hashCode());
+	public Actor() {
+		System.out.println("Actor object created "+ hashCode());
 	}
-
 }
